@@ -1,0 +1,10 @@
+{
+    "env": {
+      "ENVIRONMENT": "deployment"
+    },
+    "build": {
+      "env": {
+        "ENVIRONMENT": "deployment"
+      }
+    }
+  }
